@@ -1,3 +1,3 @@
 export default class Receipt {
-    constructor(readonly paymentNumber: string) {}
+    constructor(public paymentNumber: string) {}
 }
