@@ -1,4 +1,4 @@
-import Payment from "../src/domain/Payment/Payment"
+import Payment from "../../src/domain/Payment/Payment"
 
 test('Deve criar um pagamento', () => {
 
